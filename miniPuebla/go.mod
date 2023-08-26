@@ -1,5 +1,5 @@
 module miniPuebla
 
-go 1.21.0
+go 1.20
 
 //require github.com/stianeikeland/go-rpio v4.2.0+incompatible
